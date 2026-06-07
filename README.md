@@ -1,6 +1,6 @@
-Hey, I'm Kumail
+## Hey, I'm Kumail
 
-A FinTech UG at AU, Islamabad<br/>
+FinTech UG at AU, Islamabad<br/>
 Data Science Intern at Developers Hub Corporation<br/>
 Tech Intern at Imtehaan.ai<br/>
 
@@ -18,7 +18,4 @@ Tech Intern at Imtehaan.ai<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumailhyderm&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=kumailhyderm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
